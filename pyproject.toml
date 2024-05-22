@@ -1,6 +1,6 @@
 [project]
 name = "comfyui-anytext"
-description = ""
+description = "Unofficial implementation of AnyText for ComfyUI（EXP）"
 version = "1.0.0"
 license = "LICENSE"
 dependencies = ["modelscope", "Pillow==9.5.0"]
